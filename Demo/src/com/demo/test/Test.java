@@ -6,4 +6,5 @@ public interface Test {
   public void delete();
   
   public void test1();
+  public void test2();
 }
